@@ -1,0 +1,31 @@
+#imagenPrincipal{
+    padding-left: 0;
+    padding-right: 0;
+    height: 1920px;
+    width: 100%;
+    background: url("imagenes/sovietbuilding.jpg");
+}
+#titulo{
+    text-align: center;
+    color: green;
+    background-color: black;
+}
+
+#navegacion{
+    background-color: peru;
+}
+
+#weasRandom{
+    padding-right: 55%;
+    font-size: larger;
+}
+
+.menu-superior{
+    padding-left: 2%;
+    font-size: larger;
+
+}
+
+#descripcion{
+    text-align: center;
+}
