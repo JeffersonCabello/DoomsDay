@@ -7,23 +7,24 @@
 }
 #titulo{
     text-align: center;
-    color: green;
-    background-color: black;
+    color: rgb(252, 39, 39);
+    font-size: 48px;
 }
 
 #navegacion{
-    background-color: peru;
+    background-color:rgb(156, 156, 255);
+    height: 30px;
 }
 
-#weasRandom{
-    padding-right: 55%;
+#tituloNavegacion{
+    font: bold;
+    padding-right: 45%;
     font-size: larger;
 }
 
 .menu-superior{
     padding-left: 2%;
     font-size: larger;
-
 }
 
 #descripcion{
