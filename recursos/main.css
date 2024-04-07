@@ -3,28 +3,39 @@
     padding-right: 0;
     height: 1920px;
     width: 100%;
+    aspect-ratio: 16/9;
     background: url("imagenes/sovietbuilding.jpg");
+}
+
+#cuerpo{
+    background: #1b1b1b ;
+	color: #fff ;
+	margin-bottom: 200px ;
+	font-family: "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji';
 }
 #titulo{
     text-align: center;
     color: rgb(252, 39, 39);
-    font-size: 48px;
+    font-size: 52px;
 }
 
 #navegacion{
-    background-color:rgb(156, 156, 255);
+    background-color:peru;
     height: 30px;
 }
 
 #tituloNavegacion{
     font: bold;
-    padding-right: 45%;
-    font-size: larger;
+    padding-right: 58%;
+    font-size: 24px;
+    color: white;
 }
 
 .menu-superior{
     padding-left: 2%;
     font-size: larger;
+    color: white;
+    font-style: initial;
 }
 
 #descripcion{
